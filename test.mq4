@@ -1,3 +1,14 @@
+//+------------------------------------------------------------------+
+//|                           MyRobot2014_ENG-Build600-ShortSell.mq4 |
+//|                        Copyright 2014, MetaQuotes Software Corp. |
+//|                                              http://www.mql5.com |
+//+------------------------------------------------------------------+
+#property copyright "Copyright 2014, MetaQuotes Software Corp."
+#property link      "http://www.mql5.com"
+#property version   "1.00"
+//+------------------------------------------------------------------+
+//| Expert initialization function                                   |
+//+------------------------------------------------------------------+
 extern string  INITIAL_DATA = "INITIAL DATA";
 extern int     Magic = 22222;
 extern double  Spead_Filter = 4.0;
